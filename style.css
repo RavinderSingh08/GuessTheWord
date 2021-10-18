@@ -63,7 +63,6 @@ input {
   outline: none;
   border: none;
   background-color: #fff;
-  color: #000000;
   margin: 2rem 0;
   font-size: 1.1rem;
   font-family: cursive;
@@ -77,7 +76,7 @@ button {
   cursor: pointer;
   outline: none;
   border: none;
-  border-radius: 120px;
+  border-radius: 50px;
   text-decoration: none;
   margin-top: 10px;
   color: rgb(56, 56, 56);
